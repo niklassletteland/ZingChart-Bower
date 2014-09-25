@@ -1,4 +1,4 @@
 ZingChart-Bower
 ===============
 
-ZingChart library as a Bower package
+ZingChart library as a Bower package.
